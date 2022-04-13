@@ -1,0 +1,1 @@
+https://{server}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png|png|18|1
